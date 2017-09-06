@@ -1,0 +1,25 @@
+{
+  "name": "tiny-mce-ukUA",
+  "homepage": "https://github.com/vrs1985/tinyMCE_lang_ukUA",
+  "authors": [
+    "Vladimir Komisarenko <tropikadp@gmail.com>"
+  ],
+  "description": "Ukrainian localization",
+  "main": "uk_UA.js",
+  "keywords": [
+    "Ukraine",
+    "language",
+    "for",
+    "html",
+    "editor",
+    "tinyMCE"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
