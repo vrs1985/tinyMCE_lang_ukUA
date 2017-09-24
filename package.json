@@ -1,0 +1,19 @@
+{
+  "name": "tiny-mce-ua",
+  "version": "1.0.1",
+  "description": "ua pack for tinyMCE",
+  "main": "uk_UA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrs1985/tinyMCE_lang_ukUA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrs1985/tinyMCE_lang_ukUA/issues"
+  },
+  "homepage": "https://github.com/vrs1985/tinyMCE_lang_ukUA#readme"
+}
