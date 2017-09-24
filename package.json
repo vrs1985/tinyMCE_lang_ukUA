@@ -1,6 +1,6 @@
 {
   "name": "tiny-mce-ua",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ua pack for tinyMCE",
   "main": "uk_UA.js",
   "scripts": {
